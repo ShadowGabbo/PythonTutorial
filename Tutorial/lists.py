@@ -10,7 +10,7 @@ Dictionary is a collection which is unordered and changeable. No duplicate membe
 names = ["Harry", "Hermione", "Ron"]
 print(names)
 
-#add an element
+#add an elemens
 names.append("Draco")
 print(names)
 
